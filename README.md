@@ -1,4 +1,4 @@
-# toonflix
+# Flutter로 웹툰 앱 만들기(https://bit.ly/3Q1Rwaa)
 
 A new Flutter project.
 
